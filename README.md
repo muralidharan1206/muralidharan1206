@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m currently working as an Associate Software Engineer in PRODAPT Solutions.<br>I’m interested & practising in cloud & DevOps. I'm in leaning stage & also having hands on experience in 
-Cloud providers like AWS 
+Cloud providers like GCP, AWS 
 Continuous Integration & Delivery tools like jenkins.
 <br>Source code management tool like git, gitHub. 
 Data visualisation tool like Grafana, Promethus. 

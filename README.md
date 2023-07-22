@@ -1,10 +1,10 @@
 # 💫 About Me:
-I’m currently working as an Associate Software Engineer in PRODAPT Solutions.<br>I’m interested & practising in cloud & DevOps. I'm in leaning stage & also having hands on experience in 
+I’m currently working as a Software Engineer in PRODAPT Solutions.<br>I’m interested & practicing in cloud & DevOps. I'm in learning stage & also have hands-on experience in 
 Cloud providers like GCP, AWS 
-Continuous Integration & Delivery tools like jenkins.
-<br>Source code management tool like git, gitHub. 
-Data visualisation tool like Grafana, Promethus. 
-Containerisation tool like docker.
+Continuous Integration & Deployment tools like Jenkins and ArgoCD.
+<br>Source code management tools like git, gitHub. 
+Data visualization tools like Grafana, and Prometheus. 
+Containerization tools like docker.
 <br>Container Orchestration tool like Kubernetes. 
 Infrastructure orchestrations tool like Terraform.
 
